@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Osanda-Adithya
 - 👀 I’m interested in React Native & Native Mobile Application
-- 🌱 I’m currently learning React Native & Native Mobile Application
+- 🌱 I have developed several React Native & Native Mobile Application
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
